@@ -1,0 +1,33 @@
+.fondoCabecera {
+	-fx-background-image: url("assets/blueforest.jpg");
+	-fx-background-size: auto;
+}
+
+.textoTitulo {
+	-fx-font-family: "Poiret One";
+	-fx-font-size: 30.0;
+}
+
+.mybutton {
+	-fx-background-color: orange;
+	-fx-background-radius: 5px;
+}
+
+.mybutton:hover {
+	-fx-background-color: #76B5BC;
+	-fx-background-radius: 5px;
+}
+
+.fondoPieV2 {
+	-fx-background-color: linear-gradient(#76B5BC, #008080)
+}
+
+.mybutton2{
+	-fx-background-color: #008080;
+	-fx-background-radius: 5px;
+}
+
+.mybutton2:hover {
+	-fx-background-color: #76B5BC;
+	-fx-background-radius: 5px;
+}
